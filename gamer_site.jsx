@@ -215,3 +215,4 @@ style.innerHTML = `
   }
 `;
 document.head.appendChild(style);
+npm install framer-motion react-parallax-tilt
